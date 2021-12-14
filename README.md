@@ -19,3 +19,4 @@ Below is an example of what the webpage should look like when opened.
 <img src="./Assets/images/example-screenshots/screenshot2.png" alt="the second screenshot of the web page">
 
 Link to the working webpage:
+https://nileshachmeister.github.io/week1complete/
